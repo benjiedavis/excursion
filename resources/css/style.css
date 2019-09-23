@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1{
+    size: 50px;
+    font-weight: normal;
+    
+
+}
+.CTAlink{
+    color:aquamarine;
+    size: 16px;
+}
